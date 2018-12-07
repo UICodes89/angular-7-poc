@@ -1,0 +1,8 @@
+@include mobile(){
+    .red{
+        background:red;
+    }
+}
+.red{
+    @extend .blue;
+}

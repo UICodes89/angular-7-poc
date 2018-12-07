@@ -1,0 +1,13 @@
+/*Base scss setup file*/
+@import "lifemart/base/variables";
+@import "lifemart/base/buttons";
+@import "lifemart/base/colors";
+@import "lifemart/base/input_fields";
+@import "lifemart/base/mixins";
+
+
+/*Component scss files */
+
+@import "lifemart/components/header/header.component";
+@import "lifemart/components/header/header.component.responsive";
+
